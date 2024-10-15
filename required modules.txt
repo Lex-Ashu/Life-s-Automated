@@ -1,0 +1,7 @@
+Step1: press windoes and type cmd and open it
+Step2: copy paste the below statement in it
+
+
+pip install shutil datetime customtkinter schedule pywhatkit PyPDF2 pytube tkcalendar
+
+now you can open Life's automated.py
